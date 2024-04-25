@@ -1,4 +1,4 @@
-## iNotebook: Secure Cloud Notebook Storage
+# iNotebook: Secure Cloud Notebook Storage
 Welcome to iNotebook, your secure cloud-based notebook storage solution. iNotebook allows users to store their personal notebooks in the cloud, ensuring accessibility and convenience while prioritizing data security and privacy. Built with React.js for the frontend, Express.js for the backend, and MongoDB for the database, iNotebook offers a seamless experience for managing your digital notebooks.
 
 ## Introduction
